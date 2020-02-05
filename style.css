@@ -1,0 +1,15 @@
+*{
+ box-sizing:border-box;
+ margin:0;
+ padding:0;
+}
+.customers{
+    display:flex;
+    flex-wrap:wrap;
+    padding:1rem;
+    width:400px;
+}
+.style{
+    padding:1rem;
+    border-radius: 300px;
+}
